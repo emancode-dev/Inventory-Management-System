@@ -1,4 +1,4 @@
-#Inventory Management System (C++ OOP)
+# Inventory Management System (C++ OOP)
 
 This project is a **console-based Inventory Management System** written in **C++**.  
 It demonstrates **Object-Oriented Programming concepts** such as **classes, inheritance, polymorphism, and encapsulation**, along with **file handling and exception handling**.
